@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I am a workaholic**
 
-<h3 align="left">Connect with me:7620474600</h3>
+- 📞 Connect with me:**7620474600**
 <p align="left">
 </p>
 
