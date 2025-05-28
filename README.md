@@ -1,21 +1,21 @@
-<h1 align="center">Hi Everyone My name is Darsh</h1>
+<h1 align="center"><img src=""C:\Users\darshj\Downloads\2025-05-28-I-M-ANONYMOUS-.gif""></h1>
 <h3 align="center">a Passionate Web Dev and Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darsh970&label=Profile%20views&color=0e75b6&style=flat" alt="darsh970" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsh970" alt="darsh970" /></a> </p>
 
-- 🌱 I’m currently learning **System Design, Frameworks**
+- 🌱 I’m currently learning **System Design | Frameworks | Defensive Security**
 
-- 📝 I regularly write articles on [Cyber crimes.](Cyber crimes.)
+- 📝 I regularly write articles on **Cyber Crimes**
 
-- 💬 Ask me about **Penetration Testing**
+-💬 Ask me about **Penetration Testing**
 
 - 📫 How to reach me **djha62166@gmail.com**
 
 - ⚡ Fun fact **I think I am a workaholic**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:7620474600</h3>
 <p align="left">
 </p>
 
