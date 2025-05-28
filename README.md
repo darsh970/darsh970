@@ -1,5 +1,5 @@
 <h2 align="center"><img src="2025-05-28-I-M-ANONYMOUS-.gif", width=704>
-</h2><h3 align="right">hacking-man.gif</h3>
+</h2><h3 align="right"><b aligh="right">WORKAHOLIC</b><br><img src="Programmer.gif", width=300></h3>
 
 <h3 align="center">a Passionate Web Dev and Ethical Hacker</h3>
 
