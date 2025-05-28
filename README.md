@@ -1,4 +1,4 @@
-<h1 align="center"><img src="2025-05-28-I-M-ANONYMOUS-.gif"></h1>
+<h1 align="center"><img src="2025-05-28-I-M-ANONYMOUS-.gif", width=900></h1>
 <h3 align="center">a Passionate Web Dev and Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darsh970&label=Profile%20views&color=0e75b6&style=flat" alt="darsh970" /> </p>
