@@ -1,4 +1,4 @@
-<img src="" width="">
+<video src="ezgif-69e2b279cf0e8b.mp4" width="">
 # 👋 Hi, I'm [Darsh Jha]!
 
 🎓 **Student | 🔧 Electronics Enthusiast | 💻 Web Developer | 🔬 Science Explorer**
