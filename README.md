@@ -1,29 +1,69 @@
-<h2 align="center"><img src="2025-05-28-I-M-ANONYMOUS-.gif", width=704>
-</h2><h3 align="right"><b aligh="right">WORKAHOLIC</b><br><img src="Programmer.gif", width=300></h3>
+# 👋 Hi, I'm [Darsh Jha]!
 
-<h3 align="center">a Passionate Web Dev and Ethical Hacker</h3>
+🎓 **Student | 🔧 Electronics Enthusiast | 💻 Web Developer | 🔬 Science Explorer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darsh970&label=Profile%20views&color=0e75b6&style=flat" alt="darsh970" /> </p>
+Welcome to my GitHub! I'm passionate about combining **technology**, **electronics**, and **science** to build meaningful and practical solutions. I'm currently a student, constantly learning and experimenting with code, circuits, and everything in between.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsh970" alt="darsh970" /></a> </p>
+---
 
-- 🌱 I’m currently learning **System Design | Frameworks | Defensive Security**
+## 🧠 What I Know
 
-- 📝 I regularly write articles on **Cyber Crimes**
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
--💬 Ask me about **Penetration Testing**
+### ⚙️ Frameworks & Tools
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-- 📫 How to reach me **djha62166@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am a workaholic**
+## 🌱 Currently Learning
+- Advanced concepts in **C++**
+- Expanding skills in **Web Development**
+- Deepening knowledge in **IoT** using Arduino & Raspberry Pi
+- Exploring **interdisciplinary science & tech** projects
 
-- 📞 Connect with me:**7620474600**
-<p align="left">
+---
+
+## 🚀 Goals
+- Build real-world projects that blend **software and hardware**
+- Contribute to open-source
+- Learn more about **AI**, **data science**, and **robotics**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh970&show_icons=true&locale=en&layout=compact" alt="darsh970" /></p>
+## 📌 Pinned Projects
+<!-- Replace with your repo names -->
+- 🔧 [Project 1](https://github.com/your-github-username/project-1) – A brief description.
+- ⚙️ [Project 2](https://github.com/your-github-username/project-2) – A brief description.
+- 🚀 [Project 3](https://github.com/your-github-username/project-3) – A brief description.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darsh970&show_icons=true&locale=en" alt="darsh970" /></p
+---
+
+## 🌐 Portfolio & Contact
+
+- 🔗 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+> _“Learning never exhausts the mind.” – Leonardo da Vinci_
+
